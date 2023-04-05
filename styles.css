@@ -1,0 +1,102 @@
+.Box1 {
+  background-color: rgb(189, 187, 187);
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.BoxImg {
+  float: none;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.imgRedonda {
+  width: 300px;
+  height: 300px;
+  border-radius: 160px;
+  vertical-align: middle;
+}
+
+.Box2 {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.imagen-y-texto {
+  align-items: center;
+  margin-left: 30px;
+}
+
+.imagen-y-texto img {
+  float: left;
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.imagen-y-texto p {
+  margin-left: 10px;
+}
+
+.Box3 {
+  background-color: rgb(189, 187, 187);
+  margin-left: 15px;
+  margin-right: 15px;
+  line-height: 31px;
+}
+
+.Box3 img {
+  float: left;
+  margin-right: 10px;
+  width: 80px;
+}
+
+.Box4 {
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  flex-direction: column;
+}
+
+.Box5 {
+  background-color: white;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: justify;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  margin-bottom: 15px;
+}
+
+.Box6 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.Box7 img {
+  float: left;
+  margin-right: 10px;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.Box7 {
+  text-align: justify;
+  line-height: 20px;
+}
